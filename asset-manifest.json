@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25007158.css",
+    "main.js": "/static/js/main.d7e34dd3.js",
+    "static/media/pexels-kaique-rocha-125510.jpg": "/static/media/pexels-kaique-rocha-125510.32e874c87a5bf4324130.jpg",
+    "index.html": "/index.html",
+    "main.25007158.css.map": "/static/css/main.25007158.css.map",
+    "main.d7e34dd3.js.map": "/static/js/main.d7e34dd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25007158.css",
+    "static/js/main.d7e34dd3.js"
+  ]
+}
